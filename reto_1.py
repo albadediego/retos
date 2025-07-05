@@ -94,7 +94,7 @@ while continuar:
         mostrar_estudiantes_aprobados()
 
     elif programa == 4:
-        buscar_estudiante
+        buscar_estudiante()
 
     elif programa == 5:
         mostrar_todos()
